@@ -23,14 +23,14 @@ I'm Basila S Nazer, a CSE student passionate about technology and coding. I have
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/Figma-green?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basila-s-nazer-9a6789227/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/b.a.s.i.l.a_/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/BasilaNazer)
+[![Twitter](https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/BasilaNazer)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/basilanazer/)
 
 
