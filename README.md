@@ -11,6 +11,7 @@ I'm Basila S Nazer, a CSE student passionate about technology and coding. I have
 - 📱 Learning and building projects with Flutter for cross-platform mobile development.
 - 💬 Open to collaboration and discussions on technology and coding.
 - 📫 You can reach me at [basilanazer@gmail.com](mailto:basilanazer@gmail.com).
+- 📲 [Click Here](https://basilanazer.netlify.app/) to Check my portfolio
 
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
