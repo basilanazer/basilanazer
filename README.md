@@ -31,7 +31,8 @@ I'm Basila S Nazer, a CSE student passionate about technology and coding. I have
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/basila-s-nazer-9a6789227/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/b.a.s.i.l.a_/)
-[![Twitter](https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/BasilaNazer)
+[![Twitter](https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=x)](https://twitter.com/BasilaNazer)
+[![Instagram](https://img.shields.io/badge/Gmail-lightyellow?style=for-the-badge&logo=gmail)](mailto:basilanazer@gmail.com)
 
 
 Feel free to explore my projects and reach out for collaborations or discussions. Let's innovate together! 🚀
