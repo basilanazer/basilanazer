@@ -7,7 +7,7 @@ I'm Basila S Nazer, a CSE student passionate about technology and coding. I have
 - 🎓 CSE student at Government Engineering College, Thrissur.
 - 💻 Enthusiastic about coding and exploring new technologies.
 - 🎨 Skilled in UI/UX designing, creating intuitive user interfaces.
-- 🌐 Proficient in web front-end development.
+- 🌐 Beginer in web front-end development.
 - 📱 Learning and building projects with Flutter for cross-platform mobile development.
 - 💬 Open to collaboration and discussions on technology and coding.
 - 📫 You can reach me at [basilanazer@gmail.com](mailto:basilanazer@gmail.com).
